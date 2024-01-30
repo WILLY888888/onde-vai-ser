@@ -4,7 +4,7 @@ import React from 'react'
 
 export const Home = () => {
   return (
-    <div className='Homegit add'</div>
+    <div className='homeArea'>Home</div>
   )
 }
 
